@@ -32,6 +32,7 @@ FULFILLMENT_API_URL=https://fulfillment.your-env.example.com pnpm dev
 
 | Document | Description |
 |----------|-------------|
+| [API Spec (OpenAPI)](https://osac-project.github.io/osac/) | Hosted OpenAPI specification for the fulfillment-service API |
 | [OpenShift deployment guide](docs/deployment-openshift-guide.md) | Step-by-step guide for deploying on OpenShift with Keycloak and fulfillment-service |
 | [API query architecture](docs/api-query-arch.md) | How the API layer is split between `ui-components` and the app |
 | [AGENTS.md](AGENTS.md) | Dev environment setup, scripts reference, and coding conventions |
